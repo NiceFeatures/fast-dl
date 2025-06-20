@@ -41,7 +41,7 @@ Scheme
 		"WindowBG"			"0 0 0 200"		// background color of text edit panes (chat, text entries, etc.)
 		//"SelectionBG"		"192 28 0 140"	// background color of any selected text or menu item
 		"SelectionBG"		"255 176 0 100"	// background color of any selected text or menu item
-		"SelectionBG2"		"255 255 255 25"		// selection background in window w/o focus
+		"SelectionBG2"		"255 255 255 16"		// selection background in window w/o focus
 		"ListBG"			"0 0 0 128"		// background of scoreboard
 		"ViewportBG"		"0 0 0 200"
 		"CareerBoxBG"		"0 0 0 227"
