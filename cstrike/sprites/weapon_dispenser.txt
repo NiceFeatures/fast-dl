@@ -1,0 +1,4 @@
+3
+weapon		640	csdm/640custom1	0	0	170	45
+weapon_s	640	csdm/640custom1	0	0	170	45
+ammo		640	640hud7					96	148	32	32
